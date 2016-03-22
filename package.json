@@ -1,0 +1,31 @@
+{
+  "name": "raven-code-collab",
+  "version": "0.1.0",
+  "description": "Ensure your coding style is consistent by using these optimized linting rules for HTML, Sass, and JavaScript.",
+  "author": "Thomas Higginbotham <thomas@thomashigginbotham.com> (http://thomashigginbotham.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomashigginbotham/raven-code-collab.git"
+  },
+  "keywords": [
+    "lint",
+    "editorconfig",
+    "html",
+    "scss",
+    "js"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-htmlhint": "^0.9.12",
+    "grunt-jscs": "^2.8.0",
+    "grunt-scss-lint": "^0.3.8",
+    "gulp": "^3.9.1",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-scss-lint": "^0.3.9",
+    "jshint": "^2.9.1"
+  }
+}
